@@ -1,0 +1,8 @@
+//sample instructions
+LOAD ra0 20
+LOAD ra1 4
+LOAD ra3 5
+ADD ra0 ra1 ra2
+MUL ra0 ra3 ra4
+PRINT ra2
+PRINT ra4
